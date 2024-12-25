@@ -1,0 +1,13 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
